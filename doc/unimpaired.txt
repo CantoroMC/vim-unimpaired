@@ -78,7 +78,7 @@ On	Off	Toggle	Option
 *[ob*	*]ob*	*yob*	'background' (dark is off, light is on)
 *[oc*	*]oc*	*yoc*	'listchars' (space:␣)
 *[od*	*]od*	*yod*	'diff' (actually |:diffthis| / |:diffoff|)
-*[oe*	*]oe*	*yoe*	'syntax' 'ColorColumn'
+*[oe*	*]oe*	*yoe*	'syntax' |hl-ColorColumn|
 *[og*	*]og*	*yog*	'number' 'relativenumber' 'foldcolumn' (1 or 0)
 							'signcolumn' (auto or no)
 *[oh*	*]oh*	*yoh*	'hlsearch'
