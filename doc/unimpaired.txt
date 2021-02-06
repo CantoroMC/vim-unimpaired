@@ -76,18 +76,24 @@ OPTION TOGGLING                                 *unimpaired-toggling*
 
 On	Off	Toggle	Option
 *[ob*	*]ob*	*yob*	'background' (dark is off, light is on)
-*[oc*	*]oc*	*yoc*	'cursorline'
+*[oc*	*]oc*	*yoc*	'listchars' (space:␣)
 *[od*	*]od*	*yod*	'diff' (actually |:diffthis| / |:diffoff|)
+*[oe*	*]oe*	*yoe*	'syntax' 'ColorColumn'
+*[og*	*]og*	*yog*	'number' 'relativenumber' 'foldcolumn' (1 or 0)
+							'signcolumn' (auto or no)
 *[oh*	*]oh*	*yoh*	'hlsearch'
 *[oi*	*]oi*	*yoi*	'ignorecase'
 *[ol*	*]ol*	*yol*	'list'
 *[on*	*]on*	*yon*	'number'
 *[or*	*]or*	*yor*	'relativenumber'
 *[os*	*]os*	*yos*	'spell'
+*[ot*	*]ot*	*yot*	'wrap' 'linebreak' 'list' 'textwidth'
 *[ou*	*]ou*	*you*	'cursorcolumn'
 *[ov*	*]ov*	*yov*	'virtualedit'
 *[ow*	*]ow*	*yow*	'wrap'
 *[ox*	*]ox*	*yox*	'cursorline' 'cursorcolumn' (x as in crosshairs)
+*[o_*	*]o_*	*yo_*	'cursorline'
+*[o|*	*]o|*	*yo|*	'cursorcolumn'
 
 The mnemonic for y is that if you tilt it a bit it looks like a switch.
 
